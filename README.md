@@ -10,14 +10,14 @@ The data comprises information scraped from Wikipedia, structured into CSV files
 - Halftime show performances
 
 ### Methodology
-The analysis process involves several steps:
-**Data Loading**: CSV files are loaded into Pandas DataFrames for manipulation.
-**Data Cleaning**: Addresses missing values and data inconsistencies.
-**Exploratory Data Analysis (EDA)**: Includes statistical summaries and visualizations.
-**Data Visualization**: Utilizes libraries such as Matplotlib and Seaborn to create plots illustrating viewership trends, rating distributions, and performance metrics.
-**Data Merging**: Combines separate datasets for deeper analysis.
-**Statistical Analysis**: Examines relationships between numerical variables using regression and other statistical methods.
-**Insights Generation**: Draws conclusions from the data to answer specific questions about the Super Bowl phenomena.
+The analysis process involves several steps:\
+**Data Loading**: CSV files are loaded into Pandas DataFrames for manipulation.\
+**Data Cleaning**: Addresses missing values and data inconsistencies.\
+**Exploratory Data Analysis (EDA)**: Includes statistical summaries and visualizations.\
+**Data Visualization**: Utilizes libraries such as Matplotlib and Seaborn to create plots illustrating viewership trends, rating distributions, and performance metrics.\
+**Data Merging**: Combines separate datasets for deeper analysis.\
+**Statistical Analysis**: Examines relationships between numerical variables using regression and other statistical methods.\
+**Insights Generation**: Draws conclusions from the data to answer specific questions about the Super Bowl phenomena.\
 
 ### Analysis Overview
 **TV and Game Analysis**: Investigates whether there's a correlation between game point differences and viewership.
