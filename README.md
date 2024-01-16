@@ -11,18 +11,18 @@ The data comprises information scraped from Wikipedia, structured into CSV files
 
 ### Methodology
 The analysis process involves several steps:\
-**Data Loading**: CSV files are loaded into Pandas DataFrames for manipulation.\
-**Data Cleaning**: Addresses missing values and data inconsistencies.\
-**Exploratory Data Analysis (EDA)**: Includes statistical summaries and visualizations.\
-**Data Visualization**: Utilizes libraries such as Matplotlib and Seaborn to create plots illustrating viewership trends, rating distributions, and performance metrics.\
-**Data Merging**: Combines separate datasets for deeper analysis.\
-**Statistical Analysis**: Examines relationships between numerical variables using regression and other statistical methods.\
-**Insights Generation**: Draws conclusions from the data to answer specific questions about the Super Bowl phenomena.\
+1. **Data Loading**: CSV files are loaded into Pandas DataFrames for manipulation.\
+2. **Data Cleaning**: Addresses missing values and data inconsistencies.\
+3. **Exploratory Data Analysis (EDA)**: Includes statistical summaries and visualizations.\
+4. **Data Visualization**: Utilizes libraries such as Matplotlib and Seaborn to create plots illustrating viewership trends, rating distributions, and performance metrics.\
+5. **Data Merging**: Combines separate datasets for deeper analysis.\
+6. **Statistical Analysis**: Examines relationships between numerical variables using regression and other statistical methods.\
+7. **Insights Generation**: Draws conclusions from the data to answer specific questions about the Super Bowl phenomena.\
 
 ### Analysis Overview
-**TV and Game Analysis**: Investigates whether there's a correlation between game point differences and viewership.
-**Halftime Show Analysis**: Looks into the halftime show performances, analyzes the number of songs played, and identifies the most prolific performers.
-**Viewership and Ad Costs**: Explores the trends in viewership numbers alongside the costs of advertisements over the years, providing insights into how the Super Bowl's popularity and commercial value have evolved.
+- **TV and Game Analysis**: Investigates whether there's a correlation between game point differences and viewership.\
+- **Halftime Show Analysis**: Looks into the halftime show performances, analyzes the number of songs played, and identifies the most prolific performers.\
+- **Viewership and Ad Costs**: Explores the trends in viewership numbers alongside the costs of advertisements over the years, providing insights into how the Super Bowl's popularity and commercial value have evolved.
 
 ### Conclusion
 Key takeaways from the analysis indicate that while blowouts appear to lead to a drop in viewers, the commercial aspects of the Super Bowl, such as ad costs, have shown a different trend relative to viewership. The halftime shows have varied in the number of songs performed, which does not necessarily correlate to the length of the show due to its fixed duration.
